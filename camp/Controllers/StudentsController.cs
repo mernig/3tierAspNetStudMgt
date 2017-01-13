@@ -65,7 +65,7 @@ namespace camp.Controllers
                     break;
             }
 
-            int pageSize = 2;
+            int pageSize = 10;
             int pageNumber = (page ?? 1);
             return View(students.ToPagedList(pageNumber, pageSize));
         }
@@ -103,7 +103,6 @@ namespace camp.Controllers
             }
             return View(student);
         }
-
         // GET: Students/Edit/5
         public ActionResult Edit(string id)
         {

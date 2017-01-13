@@ -1,0 +1,11 @@
+C:\Users\merid\Documents\Visual Studio 2015\Projects\camp\BLL\bin\Debug\BLL.dll
+C:\Users\merid\Documents\Visual Studio 2015\Projects\camp\BLL\bin\Debug\BLL.pdb
+C:\Users\merid\Documents\Visual Studio 2015\Projects\camp\BLL\bin\Debug\DAL.dll
+C:\Users\merid\Documents\Visual Studio 2015\Projects\camp\BLL\bin\Debug\ServiceLayer.dll
+C:\Users\merid\Documents\Visual Studio 2015\Projects\camp\BLL\bin\Debug\EntityFramework.dll
+C:\Users\merid\Documents\Visual Studio 2015\Projects\camp\BLL\bin\Debug\DAL.pdb
+C:\Users\merid\Documents\Visual Studio 2015\Projects\camp\BLL\bin\Debug\ServiceLayer.pdb
+C:\Users\merid\Documents\Visual Studio 2015\Projects\camp\BLL\bin\Debug\EntityFramework.xml
+C:\Users\merid\Documents\Visual Studio 2015\Projects\camp\BLL\obj\Debug\BLL.csprojResolveAssemblyReference.cache
+C:\Users\merid\Documents\Visual Studio 2015\Projects\camp\BLL\obj\Debug\BLL.dll
+C:\Users\merid\Documents\Visual Studio 2015\Projects\camp\BLL\obj\Debug\BLL.pdb
